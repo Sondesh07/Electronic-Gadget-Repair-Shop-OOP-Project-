@@ -1,0 +1,4 @@
+001,S24 ultra,nayan,nayan123,broken screen,PENDING,1200.0,7 dasy
+011,iphonw 69,fahmida nowshin,fahmida1,battery issue,PENDING,1000.0,12 days
+009,vivo 6,jashim,123,microphone damage,IN-PROGRESS,1200.0,7 days
+1012,Samsung,Bishal,123,screen broken,IN-PROGRESS,120.0,7 days
